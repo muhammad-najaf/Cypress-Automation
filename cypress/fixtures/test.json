@@ -1,0 +1,42 @@
+[
+    {
+     "Registration no": 1,
+     "name": "Jack",
+     "age": 15,
+     "email": "abc",
+     "contact no": 34646454,
+     "address": "dege"
+    },
+    {
+     "Registration no": 2,
+     "name": "Marina",
+     "age": 20,
+     "email": "xyz",
+     "contact no": 54564654654,
+     "address": "cvsvsfw"
+    },
+    {
+     "Registration no": 3,
+     "name": "Joe",
+     "age": 27,
+     "email": "ijd",
+     "contact no": 3213464,
+     "address": "wferegv"
+    },
+    {
+     "Registration no": 4,
+     "name": "philips",
+     "age": 51,
+     "email": "gf",
+     "contact no": 3164894,
+     "address": "xbrtuky"
+    },
+    {
+     "Registration no": 5,
+     "name": "canon",
+     "age": 24,
+     "email": "or",
+     "contact no": 6156464,
+     "address": "jeggswe"
+    }
+   ]
